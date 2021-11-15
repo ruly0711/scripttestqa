@@ -1,2 +1,0 @@
-# scripttestqa
-test automation
